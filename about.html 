@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About - Save the Dogs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Save the Dogs Logo" class="logo">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="facts.html">Facts</a>
+            <a href="creators.html">Creators</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>About Save the Dogs</h1>
+        <p>Our mission is to make sure every dog is saved from the tar pits. We provide free health and dental care to all rescued dogs, fully funded by public donations.</p>
+        <p>We have a network of 50 foster homes and a 98% re-homing rate. Since January 2025, we have rescued over 300 dogs. 92 cents of every dollar goes directly to rescue operations.</p>
+        <p>We have had support from celebrities like John Wick and Dwayne "The Rock" Johnson. Save the Dogs was founded by Chance Mead and co-founded by Jordan Wedo.</p>
+        <a href="#" class="donate-button">Donate</a>
+    </main>
+
+    <footer>
+        &copy; 2025 Save the Dogs. Contact us: <a href="mailto:SaveTheDogs@charity.org" style="color:white;">SaveTheDogs@charity.org</a>
+    </footer>
+</body>
+</html>
